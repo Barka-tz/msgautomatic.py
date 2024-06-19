@@ -1,0 +1,2 @@
+import pywhatkit as pw
+pw.sendwhatmsg('+917983148140',"Hii!!Barka this side.Hope you're having a great day !Remember, I'm here for any questions or advice you might need.Feel free to share anything !! ", 22,25 )
