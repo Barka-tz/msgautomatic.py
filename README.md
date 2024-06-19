@@ -1,0 +1,1 @@
+# msgautomatic.py
